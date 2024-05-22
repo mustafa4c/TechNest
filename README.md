@@ -1,38 +1,9 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-"# Tech-Nest-Shop" 
-"# TechNest" 
+![Screenshot Capture - 2024-05-22 - 19-42-15](https://github.com/mustafa4c/TechNest/assets/88936207/73b84ada-a0ed-4005-8f04-ea17e4051bc3)
+![Screenshot Capture - 2024-05-22 - 19-42-32](https://github.com/mustafa4c/TechNest/assets/88936207/f3e0be0d-e23f-4172-94d6-7a5b60b0cdf4)
+![Screenshot Capture - 2024-05-22 - 19-42-55](https://github.com/mustafa4c/TechNest/assets/88936207/90391c04-51c3-44bd-b176-edb89c54093f)
+![Screenshot Capture - 2024-05-22 - 19-43-09](https://github.com/mustafa4c/TechNest/assets/88936207/8ed640d5-74c6-44b1-a955-20d7f7aad05c)
+![Screenshot Capture - 2024-05-22 - 19-44-06](https://github.com/mustafa4c/TechNest/assets/88936207/aef50f3f-b2c8-4b53-86e7-8b55839d7301)
+![Screenshot Capture - 2024-05-22 - 19-44-25](https://github.com/mustafa4c/TechNest/assets/88936207/f582aa6a-d3d2-4a48-b787-ce3d4320f130)
+![Screenshot Capture - 2024-05-22 - 19-44-52](https://github.com/mustafa4c/TechNest/assets/88936207/30d5112c-7de7-492c-a069-2e4c886fd603)
+![Screenshot Capture - 2024-05-22 - 19-45-11](https://github.com/mustafa4c/TechNest/assets/88936207/0fa1496a-0d2d-4ee5-bc13-517fdc1f0131)
+![Screenshot Capture - 2024-05-22 - 19-45-27](https://github.com/mustafa4c/TechNest/assets/88936207/3dd1f46d-3296-4700-b979-5197269062c7)
